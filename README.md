@@ -14,5 +14,6 @@ Real problems, plain words, and a demo you can try without reading a manual. Mos
 | **[Settle](https://github.com/jenzylove/settle)** · [live](https://settle-blush.vercel.app) | Find the blockers before you estimate. |
 | **[WAKE](https://github.com/jenzylove/wake)** · [live](https://bitget-lilac.vercel.app) | A trading agent that reads its signals straight from the chain. |
 | **[RESIDUAL](https://github.com/jenzylove/residual)** · [live](https://residual-teal.vercel.app) | How much of an earnings move actually belonged to the company? |
+| **[ShuffleCuts](https://github.com/jenzylove/shufflecuts)** · [live](https://shufflecuts.vercel.app) | Drop your clips and a song, get a music video. My friends still use it. |
 
 **Find me** on X: [@Dollar782](https://x.com/Dollar782)
